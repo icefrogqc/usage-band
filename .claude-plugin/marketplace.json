@@ -1,0 +1,13 @@
+{
+  "name": "usage-band",
+  "owner": {
+    "name": "icefrogqc"
+  },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./plugins/usage-band",
+      "description": "Bande au-dessus de la zone de message : barres segmentées de la limite de session (5 h) et hebdomadaire / Segmented usage bars above the prompt"
+    }
+  ]
+}
