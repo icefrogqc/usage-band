@@ -1,7 +1,7 @@
 {
   "name": "usage-band",
   "version": "1.0.0",
-  "description": "Bande au-dessus de la zone de message : barres segmentées de la limite de session (5 h) et hebdomadaire / Segmented usage bars above the prompt",
+  "description": "Segmented bars above the prompt box showing the 5-hour session limit and the weekly limit",
   "types": "./types/index.d.ts",
   "author": {
     "name": "icefrogqc"
